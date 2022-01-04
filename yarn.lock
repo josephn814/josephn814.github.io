@@ -663,6 +663,13 @@
     "resolve" "^1.11.0"
     "tildify" "^2.0.0"
 
+"hexo-filter-kroki@^2.1.8":
+  "integrity" "sha1-4NPztZO6viH9vtrI8zzakpDEycM="
+  "resolved" "https://registry.npmmirror.com/hexo-filter-kroki/download/hexo-filter-kroki-2.1.8.tgz"
+  "version" "2.1.8"
+  dependencies:
+    "pako" "^1.0.11"
+
 "hexo-front-matter@^2.0.0":
   "integrity" "sha1-A/Oanu2xbFRI27O+x9/yxOIkAGw="
   "resolved" "https://registry.npmmirror.com/hexo-front-matter/download/hexo-front-matter-2.0.0.tgz"
@@ -1239,6 +1246,11 @@
     "prelude-ls" "~1.1.2"
     "type-check" "~0.3.2"
     "word-wrap" "~1.2.3"
+
+"pako@^1.0.11":
+  "integrity" "sha1-bJWZ00DVTf05RjgCUqNXBaa5kr8="
+  "resolved" "https://registry.nlark.com/pako/download/pako-1.0.11.tgz?cache=0&sync_timestamp=1627560187062&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fpako%2Fdownload%2Fpako-1.0.11.tgz"
+  "version" "1.0.11"
 
 "parse5@6.0.1":
   "integrity" "sha1-4aHAhcVps9wIMhGE8Zo5zCf3wws="
