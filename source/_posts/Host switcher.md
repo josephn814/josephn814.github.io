@@ -7,4 +7,4 @@ it is cross-platform application.
 
 Refer:  https://github.com/oldj/SwitchHosts
 
-<img src="https://raw.githubusercontent.com/oldj/SwitchHosts/master/screenshots/sh_light.png" alt="Capture" width="960">
+<img src="https://raw.githubusercontent.com/oldj/SwitchHosts/master/screenshots/sh_light.png" width="720">
