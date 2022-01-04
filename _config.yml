@@ -7,7 +7,7 @@ title: Blog
 subtitle: ''
 description: 'Personal Blog'
 keywords:
-author: Jose Deng
+author: By Jose Deng
 language: en
 timezone: ''
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: auto
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
